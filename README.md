@@ -15,5 +15,5 @@ Then replace `@PRIVATE_KEY` on your ethereum mainnet private key
 and replace `@INFURA_KEY` on your rpc-infura key
 Then input command in terminal: 
 ```
-$npx hardhat run scripts/deploy.tsbrownie
+$npx hardhat run scripts/deploy.ts
 ```
